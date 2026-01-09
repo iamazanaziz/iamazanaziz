@@ -54,11 +54,7 @@ I enjoy building projects that **combine software intelligence with electrical s
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+in+Training;Code+Like+a+Shinobi;Never+Give+Up+🔥;I+Don’t+Stop+When+I’m+Tired&center=true&width=520&height=45">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Never%20GiveUp%20;I Don’t%20Stop When%20I’m Tiredcenter=true&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=LEVEL%20UP%20DEVELOPER&fontSize=30" />
 </p>
 ---
 
