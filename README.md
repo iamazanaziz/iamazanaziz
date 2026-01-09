@@ -1,5 +1,3 @@
-iamazanaziz / README.md
-
 <h1 align="center">Hi 👋, I'm Azan Aziz Awan</h1>
 <h3 align="center">Electrical Engineering (Computing & AI) | AI & Smart Systems Enthusiast ⚡🤖</h3>
 
@@ -59,6 +57,9 @@ I enjoy building projects that **combine software intelligence with electrical s
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+in+Training;Code+Like+a+Shinobi;Never+Give+Up+🔥;I+Don’t+Stop+When+I’m+Tired&center=true&width=520&height=45">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Never%20GiveUp%20;I Don’t%20Stop When%20I’m Tiredcenter=true&fontSize=30" />
+</p>
 ---
 
 ## 🌐 Connect With Me
