@@ -56,6 +56,7 @@ I enjoy building projects that **combine software intelligence with electrical s
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=LEVEL%20UP%20DEVELOPER&fontSize=30" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
