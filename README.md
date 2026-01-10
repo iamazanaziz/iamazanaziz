@@ -61,7 +61,17 @@ I enjoy building projects that **combine software intelligence with electrical s
 
 ## 📊 GitHub Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamazanaziz&show_icons=true&v=1" />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamazanaziz&show_icons=true&v=3" />
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamazanaziz&layout=compact&v=3" />
+</p>
+
+<p align="center">
+<img align="center" src="https://streak-stats.demolab.com?user=iamazanaziz&v=3" />
+</p>
 
 ---
 
