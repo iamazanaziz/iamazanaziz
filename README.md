@@ -59,6 +59,22 @@ I enjoy building projects that **combine software intelligence with electrical s
 
 ---
 
+## 📊 GitHub Statistics
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamazanaziz&show_icons=true&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamazanaziz&show_icons=true" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamazanaziz" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/iamazanaziz">
